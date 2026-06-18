@@ -71,8 +71,16 @@ These findings may help healthcare organizations identify high-risk patients and
 
 ### Readmission Distribution
 
+![Readmission Distribution](images/readmission_distribution.png)
+
 ### Age vs Readmission
+
+![Age vs Readmission](images/age_vs_readmission.png)
 
 ### Length of Stay by Readmission Status
 
+![Length of Stay](images/length_of_stay.png)
+
 ### Feature Importance
+
+![Feature Importance](images/feature_importance.png)
